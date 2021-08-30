@@ -15,10 +15,11 @@ html,body{
     align-items: center;
     justify-content: center;
     background-color: #0e0e0e;
+    padding: 10px;
 }
 
 .cronometro{
-    width: 40%;
+    width: 30%;
     height: 30%;
     display: flex;
     align-items: center;
@@ -27,7 +28,7 @@ html,body{
 
 .cronometro span{
     color: white;
-    margin: 10px;
+    margin: 5px;
     font-size: 15vh;
     font-family: Arial, Helvetica, sans-serif;
 }
